@@ -19,4 +19,5 @@ The TA-Lib is required. Untar ta-lib-0.4.0-src.tar.gz
 
 # Execute
 Run the script fs_analyse.py
+
 -$ python fs_analyse.py
