@@ -1,6 +1,6 @@
-#Trading Model
+# Trading Model
 This model uses the simple moving average strike prices to predict future price movements.
-#Installation
+# Installation
 run pip install -r requirements.txt
 The TA-Lib is required. Untar ta-lib-0.4.0-src.tar.gz
 -$ tar -xvf ta-lib-0.4.0-src.tar.gz
@@ -10,6 +10,6 @@ The TA-Lib is required. Untar ta-lib-0.4.0-src.tar.gz
 -$ sudo make install
 -s pip install TA-Lib
 
-#Execute
+# Execute
 Run the script fs_analyse.py
 -$ python fs_analyse.py
